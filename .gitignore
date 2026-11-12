@@ -1,0 +1,6 @@
+.env
+node_modules/
+paper/
+secrets/
+backups/
+*.log
